@@ -1,7 +1,3 @@
-# love_program.py
-# Modern developer-style animated turtle UI
-# Run: python love_program.py
-
 import turtle as t
 import time
 import math
